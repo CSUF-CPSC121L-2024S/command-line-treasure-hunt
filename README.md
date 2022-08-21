@@ -1,6 +1,13 @@
+
 # Treasure Hunt
 
-Use the command line to find the hidden treasure. You can use:
+## Navigation
+
+* [Introduction](#introduction)
+* [Find the Treasure](#find-the-treasure)
+
+## Introduction
+In this exercise, you will use the command line to find the hidden treasure. Here are some of the commands you'll find useful:
 
 ``cd`` to change directories
 
@@ -12,10 +19,13 @@ Use the command line to find the hidden treasure. You can use:
 
 Ready to get started? Open a terminal and let's go!
 
+## Find the Treasure
 First, clone this repository and change directories into it:
-
 ```
 git clone https://github.com/ILXL-guides/command-line-treasure-hunt.git
+```
+Next, use `cd` to change directories into the repository:
+```
 cd command-line-treasure-hunt
 ```
 
@@ -25,7 +35,7 @@ Now, start by typing `ls` in the terminal to list files, and you see this output
 garden house LICENSE README.md
 ```
 
-The words ``garden`` ``house`` are bold or a different color because they are directories. ``LICENSE`` and ``README.md`` are files. Type ``cat README.md`` in the terminal to see this file!
+The words ``garden`` ``house`` are bold or a different color because they are directories (aka folders). ``LICENSE`` and ``README.md`` are files. Type ``cat README.md`` in the terminal to see this file!
 
 Now let's go exploring. Go into the garden directory: ``cd garden``. Once you get there, ``ls`` to see what's around, and ``cat README.md`` to see your next set of instructions.
 

@@ -20,7 +20,7 @@ In this exercise, you will use the command line to find the hidden treasure. Her
 Ready to get started? Open a terminal and let's go!
 
 ## Find the Treasure
-First, clone this repository so you can access the files on your computer. You'll use the `git clone` command, which requires a link to specify the repository you want to copy to your local computer. You can find the link by clicking the "Code" button:
+First, clone this repository so you can access the files on your computer. You'll use the `git clone` command, which requires a link to specify the repository you want to copy to your local computer. You can find the link by clicking the "Code" button in the GitHub repo, which opens a popup where you can copy the repo link:
 ![Finding the link to use for git clone](gitcloneguide.png)
 
 Substitute `<link>` for the GitHub repository link, and run the following command on your terminal:

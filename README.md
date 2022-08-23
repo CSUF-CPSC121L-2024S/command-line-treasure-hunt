@@ -27,9 +27,9 @@ Substitute `<link>` for the GitHub repository link, and run the following comman
 ```
 git clone <link>
 ```
-Next, use `cd` to change directories into the repository:
+Next, use `cd` to change directories into your repository:
 ```
-cd command-line-treasure-hunt
+cd treasure-hunt-<YOUR_USERNAME>
 ```
 
 Now, start by typing `ls` in the terminal to list files, and you see this output:
